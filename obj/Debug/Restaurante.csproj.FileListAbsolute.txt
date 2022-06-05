@@ -1,0 +1,347 @@
+C:\Users\Gina\source\repos\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\Gina\source\repos\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\Gina\source\repos\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.csprojAssemblyReference.cache
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+C:\Users\Gina\source\repos\Restaurante\Restaurante\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Gina\source\repos\Restaurante\Restaurante\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CopyComplete
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.LogIn.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\bin\Debug\MySql.Data.dll
+C:\Users\Gina\source\repos\Restaurante\Restaurante\bin\Debug\Google.Protobuf.dll
+C:\Users\Gina\source\repos\Restaurante\Restaurante\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gina\source\repos\Restaurante\Restaurante\bin\Debug\MySql.Data.xml
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.GHAPA.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.PrincipalAdmi.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Alimento.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Mesero.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Alimento.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Mesero.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Cliente.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Mesa.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Mesero.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Alimento.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.General_Alimento.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.General_Cliente.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.General_Mesero.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Alimento.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Mesero.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Cliente.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Cliente.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Buscar_Cliente.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Cliente_Existe.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Pedido.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Generar_Cuenta.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.General_Pedidos.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Pedidos.resources
+C:\Users\Gina\source\repos\Restaurante\Restaurante\bin\Debug\itextsharp.dll
+C:\Users\Gina\source\repos\Restaurante\Restaurante\bin\Debug\itextsharp.xml
+C:\Users\Gina\source\repos\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Pedido.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\bin\Debug\itextsharp.dll
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\bin\Debug\Google.Protobuf.dll
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\bin\Debug\itextsharp.xml
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\bin\Debug\MySql.Data.xml
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.csprojAssemblyReference.cache
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Alimento.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Cliente.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Buscar_Cliente.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Cliente_Existe.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Alimento.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Mesero.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Pedido.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.General_Alimento.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.General_Cliente.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.General_Mesero.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.General_Pedidos.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Generar_Cuenta.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Alimento.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Cliente.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Mesero.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Pedidos.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Pedido.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Alimento.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Mesero.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.GHAPA.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.LogIn.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.PrincipalAdmi.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Cliente.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Mesa.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Mesero.resources
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CopyComplete
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\ingchfe\Downloads\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+C:\Users\ingchfe\Downloads\AchisAchis\Restaurante\Restaurante\obj\Debug\Restaurante.Buscar_Cuenta.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\bin\Debug\itextsharp.dll
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\bin\Debug\MySql.Data.dll
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\bin\Debug\Google.Protobuf.dll
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\bin\Debug\itextsharp.xml
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\bin\Debug\MySql.Data.xml
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.csprojAssemblyReference.cache
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Alimento.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Cliente.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Buscar_Cuenta.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Buscar_Cliente.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Cliente_Existe.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Alimento.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Mesero.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Pedido.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.General_Alimento.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.General_Cliente.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.General_Mesero.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.General_Pedidos.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Generar_Cuenta.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Alimento.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Cliente.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Mesero.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Pedidos.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Pedido.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Alimento.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Mesero.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.GHAPA.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.LogIn.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.PrincipalAdmi.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Cliente.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Mesa.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Mesero.resources
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CopyComplete
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\Gina\Downloads\achisachisv3\achisachis\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+C:\Users\hanna\Downloads\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\hanna\Downloads\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\hanna\Downloads\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\hanna\Downloads\Restaurante\Restaurante\bin\Debug\itextsharp.dll
+C:\Users\hanna\Downloads\Restaurante\Restaurante\bin\Debug\Google.Protobuf.dll
+C:\Users\hanna\Downloads\Restaurante\Restaurante\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\hanna\Downloads\Restaurante\Restaurante\bin\Debug\itextsharp.xml
+C:\Users\hanna\Downloads\Restaurante\Restaurante\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\hanna\Downloads\Restaurante\Restaurante\bin\Debug\MySql.Data.xml
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.csprojAssemblyReference.cache
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Alimento.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Cliente.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Buscar_Cuenta.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Buscar_Cliente.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Cliente_Existe.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Alimento.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Mesero.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Pedido.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.General_Alimento.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.General_Cliente.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.General_Mesero.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.General_Pedidos.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Generar_Cuenta.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Alimento.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Cliente.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Mesero.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Pedidos.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Pedido.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Alimento.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Mesero.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.GHAPA.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.LogIn.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.PrincipalAdmi.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Cliente.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Mesa.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Mesero.resources
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CopyComplete
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\hanna\Downloads\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\bin\Debug\itextsharp.dll
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\bin\Debug\MySql.Data.dll
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\bin\Debug\Google.Protobuf.dll
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\bin\Debug\itextsharp.xml
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\bin\Debug\MySql.Data.xml
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.csprojAssemblyReference.cache
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Alimento.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Cliente.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Buscar_Cuenta.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Buscar_Cliente.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Cliente_Existe.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Alimento.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Mesero.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Pedido.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.General_Alimento.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.General_Cliente.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.General_Mesero.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.General_Pedidos.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Generar_Cuenta.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Alimento.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Cliente.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Mesero.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Pedidos.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Pedido.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Alimento.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Mesero.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.GHAPA.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.LogIn.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.PrincipalAdmi.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Cliente.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Mesa.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Mesero.resources
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CopyComplete
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+C:\Users\Gina\Downloads\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.PrincipalMesero.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\itextsharp.dll
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\Google.Protobuf.dll
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\itextsharp.xml
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\MySql.Data.xml
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.csprojAssemblyReference.cache
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Alimento.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Cliente.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Buscar_Cuenta.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Buscar_Cliente.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Cliente_Existe.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Alimento.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Mesero.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Pedido.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.General_Alimento.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.General_Cliente.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.General_Mesero.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.General_Pedidos.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Generar_Cuenta.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Alimento.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Cliente.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Mesero.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Pedidos.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Pedido.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.PrincipalMesero.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Alimento.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Mesero.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.GHAPA.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.LogIn.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.PrincipalAdmi.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Cliente.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Mesa.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Mesero.resources
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CopyComplete
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\ingchfe\Downloads\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\itextsharp.dll
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\MySql.Data.dll
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\Google.Protobuf.dll
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\itextsharp.xml
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\bin\Debug\MySql.Data.xml
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.csprojAssemblyReference.cache
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Alimento.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Cliente.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Buscar_Cuenta.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Buscar_Cliente.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Cliente_Existe.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Alimento.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Mesero.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Pedido.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.General_Alimento.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.General_Cliente.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.General_Mesero.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.General_Pedidos.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Generar_Cuenta.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Alimento.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Cliente.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Mesero.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Pedidos.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Pedido.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.PrincipalMesero.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Alimento.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Mesero.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.GHAPA.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.LogIn.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.PrincipalAdmi.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Cliente.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Mesa.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Mesero.resources
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CopyComplete
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\Gina\Downloads\Restaurante v3\Restaurante v3\Restaurante\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
+C:\Users\Gina\Desktop\Restaurante\Restaurante\bin\Debug\Restaurante.exe.config
+C:\Users\Gina\Desktop\Restaurante\Restaurante\bin\Debug\Restaurante.exe
+C:\Users\Gina\Desktop\Restaurante\Restaurante\bin\Debug\Restaurante.pdb
+C:\Users\Gina\Desktop\Restaurante\Restaurante\bin\Debug\itextsharp.dll
+C:\Users\Gina\Desktop\Restaurante\Restaurante\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Gina\Desktop\Restaurante\Restaurante\bin\Debug\MySql.Data.dll
+C:\Users\Gina\Desktop\Restaurante\Restaurante\bin\Debug\Google.Protobuf.dll
+C:\Users\Gina\Desktop\Restaurante\Restaurante\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Gina\Desktop\Restaurante\Restaurante\bin\Debug\itextsharp.xml
+C:\Users\Gina\Desktop\Restaurante\Restaurante\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Gina\Desktop\Restaurante\Restaurante\bin\Debug\MySql.Data.xml
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.csprojAssemblyReference.cache
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Alimento.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Cliente.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Buscar_Cuenta.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Buscar_Cliente.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Cliente_Existe.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Alimento.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Mesero.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Delete_Pedido.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.General_Alimento.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.General_Cliente.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.General_Mesero.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.General_Pedidos.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Generar_Cuenta.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Alimento.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Cliente.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Mesero.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Individual_Pedidos.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Pedido.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.PrincipalMesero.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Alimento.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Add_Mesero.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.GHAPA.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.LogIn.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.PrincipalAdmi.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Properties.Resources.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Cliente.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Mesa.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.Update_Mesero.resources
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.GenerateResource.cache
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CoreCompileInputs.cache
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.csproj.CopyComplete
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.exe
+C:\Users\Gina\Desktop\Restaurante\Restaurante\obj\Debug\Restaurante.pdb
